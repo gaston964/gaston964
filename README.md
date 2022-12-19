@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Tabaqueria AllBlack](https://gaston964.github.io/AllBlack-Tabaqueria/)
 
-- 🌱 I’m currently learning **JavaScript**
+- 🌱 I’m currently learning **React!**
 
 - 📫 How to reach me **gastongutierrez964@gmail.com**
 
