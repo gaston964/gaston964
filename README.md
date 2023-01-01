@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Gaston Gutierrez</h1>
 <h3 align="center">Currently trying to train as a front-end developer.</h3>
 
-- 🔭 I’m currently working on [Tabaqueria AllBlack](https://gaston964.github.io/AllBlack-Tabaqueria/)
+- 🔭 I’m currently working on [GlassShop](https://glass-shop.vercel.app/)
 
 - 🌱 I’m currently learning **React!**
 
